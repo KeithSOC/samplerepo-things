@@ -7,7 +7,4 @@ mangoes
 oranges
 kiwi
 papaya
-<<<<<<< HEAD
-=======
 pear
->>>>>>> feature1
