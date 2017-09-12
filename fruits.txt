@@ -3,3 +3,7 @@ apples
 berries
 cherries
 mangosteen
+mangoes
+oranges
+kiwi
+papaya
