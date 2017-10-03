@@ -1,1 +1,7 @@
-test
+superman
+batman
+wonder woman
+green lantern
+martian manhunter
+hawkgirl
+flash
